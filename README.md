@@ -3,12 +3,15 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Mobile-Android%20Native-3DDC84.svg?logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Language-Kotlin-7F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4.svg?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/Domain-Telehealth%20%7C%20Clinical%20EHR-rose.svg" alt="Telehealth">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -158,6 +161,8 @@ git clone https://github.com/AbdulRehmanRattu/Smart-General-Practitioner-Android
 ```bash
 adb install Archive/Final/app-debug.apk
 ```
+
+---
 
 ---
 
