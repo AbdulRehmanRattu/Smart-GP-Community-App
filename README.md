@@ -1,5 +1,19 @@
 # Smart General Practitioner Community (SGPC) Native Android Telehealth Application
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 
 Modern healthcare delivery requires efficient, secure, and intuitive digital interfaces connecting patients with licensed general practitioners, medical specialists, and clinical consultation services.
@@ -7,7 +21,6 @@ Modern healthcare delivery requires efficient, secure, and intuitive digital int
 This project implements the **Smart General Practitioner Community (SGPC)** native Android mobile application engineered using Kotlin, Android Jetpack components, and the Model-View-ViewModel (MVVM) architectural pattern. The application features patient authentication, verified doctor directory browsing, interactive appointment scheduling, in-app telehealth consultation workflows, and clinical profile management.
 
 ---
-
 
 ---
 
@@ -145,3 +158,15 @@ git clone https://github.com/AbdulRehmanRattu/Smart-General-Practitioner-Android
 ```bash
 adb install Archive/Final/app-debug.apk
 ```
+
+---
+
+## Author & Maintainer
+
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
